@@ -31,9 +31,9 @@ Your Name Email Address An email address is required.  Message   </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kree.github.io/portfolio/</guid>
-      <description>Here is a GIS portfolio:
-  Some Assignment   Description of what this is&amp;hellip;
-  Some Assignment   Description of what this is&amp;hellip;</description>
+      <description>Here is a a sampling of my GIS work:
+  Ward 7 Schools, Washington DC   This map shows the schools in Ward 7 of Washington DC. Elementary, middle, and high schools are indicated by symbols of different size. The main feature of the map - Ward 7 - is a lighter color than the background of the rest of DC to create good figure/ground contrast.
+  Map of Marathon, FL   Map of Marathon, Florida created by me using Adobe Illustrator, and the ArcGIS extension for Adobe Illustrator.</description>
     </item>
     
     <item>
