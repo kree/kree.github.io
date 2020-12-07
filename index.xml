@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kristin Berry&#39;s GIS Portfolio</title>
+    <link>kree.github.io/</link>
+    <description>Recent content on Kristin Berry&#39;s GIS Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="kree.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>kree.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>kree.github.io/about/</guid>
+      <description>Hi, I&amp;rsquo;m Kristin Berry, a scientific software professional with some experience in GIS. I&amp;rsquo;m worked on projects ranging from small websites created to customer specifications to large image-processing software systesm with 15+ years of active development, and have an academic background in Physics and Earth, Atmospheric, and Plantary Sciences. I always enjoy learning new things and am always interested in new connections and oppurtunities. This site showcases primarily GIS projects created as part of the UWF GIS Certificate Program.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>kree.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>kree.github.io/contact/</guid>
+      <description>You can contact me by using the form below.
+Your Name Email Address An email address is required.  Message   </description>
+    </item>
+    
+    <item>
+      <title>Portfolio</title>
+      <link>kree.github.io/portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>kree.github.io/portfolio/</guid>
+      <description>Here is a GIS portfolio:
+  Some Assignment   Description of what this is&amp;hellip;
+  Some Assignment   Description of what this is&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>kree.github.io/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>kree.github.io/resume/</guid>
+      <description>Here is my GIS-focused resume, available as a downloadable PDF: Resume</description>
+    </item>
+    
+  </channel>
+</rss>
