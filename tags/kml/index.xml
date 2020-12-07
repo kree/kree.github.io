@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KML on Kristin Berry&#39;s GIS Portfolio</title>
+    <link>https://kree.github.io/tags/kml/</link>
+    <description>Recent content in KML on Kristin Berry&#39;s GIS Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Sep 2019 21:08:00 -0700</lastBuildDate><atom:link href="https://kree.github.io/tags/kml/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Module 4 - Intro to GIS - ArcGIS Collector, Sharing Maps, and Projections</title>
+      <link>https://kree.github.io/posts/2019-09-20-module-4-intro-to-gis-arcgis-collector-sharing-maps-and-projections/</link>
+      <pubDate>Fri, 20 Sep 2019 21:08:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2019-09-20-module-4-intro-to-gis-arcgis-collector-sharing-maps-and-projections/</guid>
+      <description>In this week&amp;rsquo;s lab, we completed two projects: collecting data using the smartphone app ArcGIS Collector and displaying it and exporting it, and using FGDL shapefiles of Florida Counties to explore the differences between three different projections.
+The goal of the first lab was to collect condition data about some infrastructure in your neighborhood and then share it online via ArcGIS online, Google Earth, and also export the information so that others could use it in KML and Map Package form.</description>
+    </item>
+    
+  </channel>
+</rss>

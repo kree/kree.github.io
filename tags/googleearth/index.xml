@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GoogleEarth on Kristin Berry&#39;s GIS Portfolio</title>
+    <link>https://kree.github.io/tags/googleearth/</link>
+    <description>Recent content in GoogleEarth on Kristin Berry&#39;s GIS Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Apr 2020 18:30:00 -0700</lastBuildDate><atom:link href="https://kree.github.io/tags/googleearth/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GIS 4006 - Module 7 - Google Earth</title>
+      <link>https://kree.github.io/posts/2020-04-30-gis-4006-module-7-google-earth/</link>
+      <pubDate>Thu, 30 Apr 2020 18:30:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2020-04-30-gis-4006-module-7-google-earth/</guid>
+      <description>For this week&amp;rsquo;s lab we exported KML files from ArcGIS Pro which contained: dot density information for the major cities in southern Florida, water features, and county lines in southern Florida. (The dot density and county lines were actually already provided in KMZ format as part of the lab,) and loaded them into Google Earth Pro, the downloadable desktop version of Google Earth.
+For the only static map deliverable, I loaded these KML files into Google Earth and imported a legend.</description>
+    </item>
+    
+  </channel>
+</rss>

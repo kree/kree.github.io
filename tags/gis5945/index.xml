@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GIS5945 on Kristin Berry&#39;s GIS Portfolio</title>
+    <link>https://kree.github.io/tags/gis5945/</link>
+    <description>Recent content in GIS5945 on Kristin Berry&#39;s GIS Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Dec 2020 18:09:00 -0800</lastBuildDate><atom:link href="https://kree.github.io/tags/gis5945/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GIS5945 - GIS Portfolio</title>
+      <link>https://kree.github.io/posts/2020-12-06-gis5945-gis-portfolio/</link>
+      <pubDate>Sun, 06 Dec 2020 18:09:00 -0800</pubDate>
+      
+      <guid>https://kree.github.io/posts/2020-12-06-gis5945-gis-portfolio/</guid>
+      <description>Hi everyone,
+For the final assignment of my UWF GIS certificate program, I created a GIS Portfolio. This is available at: https://kree.github.io/index.html
+The portfolio primarily consists of work that I did as part of the UWF GIS Certificate program, as most of the work done in my internship falls into the category of software to support GIS work, rather than GIS products themselves. To include some of this work as well, I did include a link to my professional GitHub account which showcases the GIS and remote-sensing related software I have worked on.</description>
+    </item>
+    
+    <item>
+      <title>GIS5945 - GIS Day Celebration</title>
+      <link>https://kree.github.io/posts/2020-12-06-gis5945-gis-day-celebration/</link>
+      <pubDate>Sun, 06 Dec 2020 15:50:00 -0800</pubDate>
+      
+      <guid>https://kree.github.io/posts/2020-12-06-gis5945-gis-day-celebration/</guid>
+      <description>For GIS Day this year, I attended (virtually) the 2020 GEOFLO Summit https://www.geoflo-summit.com/home which is based in West-Central Florida, but had attendees from all over the world. My favorite of the talks I attended was: “Homelessness, COVID-19, and GIS” by Mary Rose Camp which was extremely interesting and went into a lot of detail I wasn’t expecting it to. In addition to her work tracking homeless encampments, using the information to set up hygiene stations, and analyzing the distance to food pantries with walk buffers, the presenter talked about how it’s worth the extra effort to make surveys easy to fill-out and beautiful, and recommended a service called “cavana” to simplify this process.</description>
+    </item>
+    
+  </channel>
+</rss>

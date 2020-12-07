@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MapLink on Kristin Berry&#39;s GIS Portfolio</title>
+    <link>https://kree.github.io/tags/maplink/</link>
+    <description>Recent content in MapLink on Kristin Berry&#39;s GIS Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Oct 2019 20:20:00 -0700</lastBuildDate><atom:link href="https://kree.github.io/tags/maplink/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Module 6 - Add XY Data and Geocoding</title>
+      <link>https://kree.github.io/posts/2019-10-20-module-6-add-xy-data-and-geocoding/</link>
+      <pubDate>Sun, 20 Oct 2019 20:20:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2019-10-20-module-6-add-xy-data-and-geocoding/</guid>
+      <description>In this week&amp;rsquo;s module, first we first created XY Data in an Excel spreadsheet and imported it into ArcGIS and then Geocoded addresses obtained from the Florida Department of Education website based on TIGER &amp;ldquo;All Line&amp;rdquo; files obtained from the US Census Bureau for Brevard County in Florida.
+The first part of this week&amp;rsquo;s lab was very straightforward: parsing out lat/lon locations of Eagle Nests in Santa Rosa county given in degree-minute-second format and then converting them to decimal degrees using degrees + minutes/60.</description>
+    </item>
+    
+  </channel>
+</rss>

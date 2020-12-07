@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GIS4043 on Kristin Berry&#39;s GIS Portfolio</title>
+    <link>https://kree.github.io/tags/gis4043/</link>
+    <description>Recent content in GIS4043 on Kristin Berry&#39;s GIS Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Oct 2019 20:20:00 -0700</lastBuildDate><atom:link href="https://kree.github.io/tags/gis4043/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Module 6 - Add XY Data and Geocoding</title>
+      <link>https://kree.github.io/posts/2019-10-20-module-6-add-xy-data-and-geocoding/</link>
+      <pubDate>Sun, 20 Oct 2019 20:20:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2019-10-20-module-6-add-xy-data-and-geocoding/</guid>
+      <description>In this week&amp;rsquo;s module, first we first created XY Data in an Excel spreadsheet and imported it into ArcGIS and then Geocoded addresses obtained from the Florida Department of Education website based on TIGER &amp;ldquo;All Line&amp;rdquo; files obtained from the US Census Bureau for Brevard County in Florida.
+The first part of this week&amp;rsquo;s lab was very straightforward: parsing out lat/lon locations of Eagle Nests in Santa Rosa county given in degree-minute-second format and then converting them to decimal degrees using degrees + minutes/60.</description>
+    </item>
+    
+    <item>
+      <title>Module 5 - Vector Analysis 1 and 2</title>
+      <link>https://kree.github.io/posts/2019-10-02-module-5-vector-analysis-1-and-2/</link>
+      <pubDate>Wed, 02 Oct 2019 09:07:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2019-10-02-module-5-vector-analysis-1-and-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Module 4 - Intro to GIS - ArcGIS Collector, Sharing Maps, and Projections</title>
+      <link>https://kree.github.io/posts/2019-09-20-module-4-intro-to-gis-arcgis-collector-sharing-maps-and-projections/</link>
+      <pubDate>Fri, 20 Sep 2019 21:08:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2019-09-20-module-4-intro-to-gis-arcgis-collector-sharing-maps-and-projections/</guid>
+      <description>In this week&amp;rsquo;s lab, we completed two projects: collecting data using the smartphone app ArcGIS Collector and displaying it and exporting it, and using FGDL shapefiles of Florida Counties to explore the differences between three different projections.
+The goal of the first lab was to collect condition data about some infrastructure in your neighborhood and then share it online via ArcGIS online, Google Earth, and also export the information so that others could use it in KML and Map Package form.</description>
+    </item>
+    
+    <item>
+      <title>Module 3 - Intro to GIS - Cartography: Layout and Essential Map Elements</title>
+      <link>https://kree.github.io/posts/2019-09-09-module-3-intro-to-gis-cartography-layout-and-essential-map-elements/</link>
+      <pubDate>Mon, 09 Sep 2019 20:52:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2019-09-09-module-3-intro-to-gis-cartography-layout-and-essential-map-elements/</guid>
+      <description>For the second lab in GIS4043, we created a map of the University of West Florida&amp;rsquo;s location relative to the Escambia county line, interstates, and major rivers, along with a context map displaying all the counties of Florida. This was a more complete map than last week, containing a legend, title, and an indicator of the direction of north, and also a lot more work than last week. I had no idea how many design decisions go into the creation of a relatively simple map!</description>
+    </item>
+    
+    <item>
+      <title>Module 2 - Intro to GIS - ArcGIS Pro Overview</title>
+      <link>https://kree.github.io/posts/2019-09-02-module-2-intro-to-gis-arcgis-pro-overview/</link>
+      <pubDate>Mon, 02 Sep 2019 16:24:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2019-09-02-module-2-intro-to-gis-arcgis-pro-overview/</guid>
+      <description>For the first lab in the first week of Intro to GIS we created
+and exported a simple world map with major cities and countries denoted using ArcGIS Pro. The general steps were as follows: (1) Create a new project in ArcGIS, (2) Add a dataset, consisting of shapefiles for major cities and countries of the world, (3) Modify the symbology used to display the data, and (4) Create a map layout and export it.</description>
+    </item>
+    
+    <item>
+      <title>Welcome to this blog!</title>
+      <link>https://kree.github.io/posts/2019-08-27-welcome-to-this-blog/</link>
+      <pubDate>Tue, 27 Aug 2019 08:14:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2019-08-27-welcome-to-this-blog/</guid>
+      <description>Welcome! This blog will demonstrate work completed for the GIS Certificate program offered by the University of West Florida.</description>
+    </item>
+    
+  </channel>
+</rss>

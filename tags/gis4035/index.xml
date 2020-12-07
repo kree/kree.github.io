@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GIS4035 on Kristin Berry&#39;s GIS Portfolio</title>
+    <link>https://kree.github.io/tags/gis4035/</link>
+    <description>Recent content in GIS4035 on Kristin Berry&#39;s GIS Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Dec 2019 20:03:00 -0800</lastBuildDate><atom:link href="https://kree.github.io/tags/gis4035/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lab 5 - GIS4035 - Unsupervised and Supervised Classification</title>
+      <link>https://kree.github.io/posts/2019-12-03-lab-5-gis4035-unsupervised-and-supervised-classification/</link>
+      <pubDate>Tue, 03 Dec 2019 20:03:00 -0800</pubDate>
+      
+      <guid>https://kree.github.io/posts/2019-12-03-lab-5-gis4035-unsupervised-and-supervised-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lab 4 - GIS4035 - Spatial Enhancement and Band Indicies</title>
+      <link>https://kree.github.io/posts/2019-11-19-lab-4-gis4035-spatial-enhancement-and-band-indicies/</link>
+      <pubDate>Tue, 19 Nov 2019 21:11:00 -0800</pubDate>
+      
+      <guid>https://kree.github.io/posts/2019-11-19-lab-4-gis4035-spatial-enhancement-and-band-indicies/</guid>
+      <description>For this week&amp;rsquo;s lab, after going through several exercises about using the different spatial filters, using histograms, and using band indicies in ERDAS imagine (and to a lesser extent in ArcGIS,) we created 3 output maps based on three mystery features described in this week&amp;rsquo;s lab. I identified Mystery Feature #1 as &amp;ldquo;water,&amp;rdquo; in particular the inlets in the upper-righthand corner of our image to be analyzed, Mystery Feature #2 as snow/ice in the mountains, and Feature #3 as the bay which showed high brightness in Layers 1-3, and to a lesser extent 4, but no brightness variation from the rest of the water in Layers 5-6.</description>
+    </item>
+    
+    <item>
+      <title>Lab 3 - GIS4035 - Intro to ERDAS Imagine and Digital Data A&amp;B</title>
+      <link>https://kree.github.io/posts/2019-11-12-lab-3-gis4035-intro-to-erdas-imagine-and-digital-data-a-b/</link>
+      <pubDate>Tue, 12 Nov 2019 19:30:00 -0800</pubDate>
+      
+      <guid>https://kree.github.io/posts/2019-11-12-lab-3-gis4035-intro-to-erdas-imagine-and-digital-data-a-b/</guid>
+      <description>For this week&amp;rsquo;s lab, we used ERDAS Imagine for the first time and used it to view automatically classified land types of an image from Olympic National Park in Washington State.
+I found ERDAS imagine surprisingly quick and straightforward to use! We selected a subset of the image and exported the result to a new .img file. We then loaded this .img file into ArcGIS and used it to create the actual map displayed in this blog post.</description>
+    </item>
+    
+    <item>
+      <title>Lab 2 - GIS4035 - Land Use Land Cover</title>
+      <link>https://kree.github.io/posts/2019-11-05-lab-2-gis4035-land-use-land-cover/</link>
+      <pubDate>Tue, 05 Nov 2019 22:03:00 -0800</pubDate>
+      
+      <guid>https://kree.github.io/posts/2019-11-05-lab-2-gis4035-land-use-land-cover/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lab 1 - GIS 4035 - Visual Interpertation </title>
+      <link>https://kree.github.io/posts/2019-10-29-lab-1-gis-4035-visual-interpertation/</link>
+      <pubDate>Tue, 29 Oct 2019 21:40:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2019-10-29-lab-1-gis-4035-visual-interpertation/</guid>
+      <description>In this lab, we explored identifying regions and features in aerial photographs, and compared the colors of features in photos taken of the same region in true color vs. false color NIR imagery. For the first part of this lab, we identified regions (which we marked with Polygons) of 5 tone levels, and 5 texture levels. The result of this work is shown below.
+In the second part of this lab, we identified features (i.</description>
+    </item>
+    
+  </channel>
+</rss>

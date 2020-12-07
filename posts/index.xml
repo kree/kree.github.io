@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Kristin Berry&#39;s GIS Portfolio</title>
+    <link>https://kree.github.io/posts/</link>
+    <description>Recent content in Posts on Kristin Berry&#39;s GIS Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Dec 2020 18:09:00 -0800</lastBuildDate><atom:link href="https://kree.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GIS5945 - GIS Portfolio</title>
+      <link>https://kree.github.io/posts/2020-12-06-gis5945-gis-portfolio/</link>
+      <pubDate>Sun, 06 Dec 2020 18:09:00 -0800</pubDate>
+      
+      <guid>https://kree.github.io/posts/2020-12-06-gis5945-gis-portfolio/</guid>
+      <description>Hi everyone,
+For the final assignment of my UWF GIS certificate program, I created a GIS Portfolio. This is available at: https://kree.github.io/index.html
+The portfolio primarily consists of work that I did as part of the UWF GIS Certificate program, as most of the work done in my internship falls into the category of software to support GIS work, rather than GIS products themselves. To include some of this work as well, I did include a link to my professional GitHub account which showcases the GIS and remote-sensing related software I have worked on.</description>
+    </item>
+    
+    <item>
+      <title>GIS5945 - GIS Day Celebration</title>
+      <link>https://kree.github.io/posts/2020-12-06-gis5945-gis-day-celebration/</link>
+      <pubDate>Sun, 06 Dec 2020 15:50:00 -0800</pubDate>
+      
+      <guid>https://kree.github.io/posts/2020-12-06-gis5945-gis-day-celebration/</guid>
+      <description>For GIS Day this year, I attended (virtually) the 2020 GEOFLO Summit https://www.geoflo-summit.com/home which is based in West-Central Florida, but had attendees from all over the world. My favorite of the talks I attended was: “Homelessness, COVID-19, and GIS” by Mary Rose Camp which was extremely interesting and went into a lot of detail I wasn’t expecting it to. In addition to her work tracking homeless encampments, using the information to set up hygiene stations, and analyzing the distance to food pantries with walk buffers, the presenter talked about how it’s worth the extra effort to make surveys easy to fill-out and beautiful, and recommended a service called “cavana” to simplify this process.</description>
+    </item>
+    
+    <item>
+      <title>GIS 5935 - Lab 6: Scale Effect and Spatial Data Aggregataion</title>
+      <link>https://kree.github.io/posts/2020-10-18-gis-5935-lab-6-scale-effect-and-spatial-data-aggregataion/</link>
+      <pubDate>Sun, 18 Oct 2020 22:57:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2020-10-18-gis-5935-lab-6-scale-effect-and-spatial-data-aggregataion/</guid>
+      <description>For the first part of this week&amp;rsquo;s lab, we examined the effects of scale on data by examining vector and raster data at various scales and resolutions. For the second part of this week&amp;rsquo;s lab, we examined the how aggregating spatial data in different ways can result in different results. The primary thing we examined in this section was gerrymandered districts, which was fascinating.
+Higher scale vector data tends to contain more details, more vertices, and generally more information.</description>
+    </item>
+    
+    <item>
+      <title>GIS 5935 - Lab 5 / Module 2.2: Surface Interpolation</title>
+      <link>https://kree.github.io/posts/2020-10-07-gis-5935-lab-5-module-2-2-surface-interpolation/</link>
+      <pubDate>Wed, 07 Oct 2020 20:45:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2020-10-07-gis-5935-lab-5-module-2-2-surface-interpolation/</guid>
+      <description>In this lab, we examined different methods for interpolating between points, including: Inverse Distance Weighting (IDW,) Thiessen (Nearest Neighbor), and Spline. Within Spline we investigated both the Tension and Regular options offered by ArcGIS. In Part A, we examined a set of elevation points in Kansas and created interpolated DEMs from them using IDW and Spline (tension) interpolations. Then, we subtracted the results using the Raster Calculator to analyze the differences between the results.</description>
+    </item>
+    
+    <item>
+      <title>GIS 5935 - Lab 4 / Module 2.1: Surfaces - TINs and DEMs</title>
+      <link>https://kree.github.io/posts/2020-09-30-gis-5935-lab-4-module-2-1-surfaces-tins-and-dems/</link>
+      <pubDate>Wed, 30 Sep 2020 21:43:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2020-09-30-gis-5935-lab-4-module-2-1-surfaces-tins-and-dems/</guid>
+      <description>In this week&amp;rsquo;s lab, we examined digital elevation models (DEMs) and surfaces represented by TINs (triangular irregular networks.) Unlike a DEM, a TIN is a geometric three dimensional model of a surface, rather than the traditional DEM raster model with a raster value for elevation at each pixel. The TIN model allows for geometric operations like intersection with a triangular facet to determine what is visible from a point, that would be more difficult to compute from a raster DEM surface.</description>
+    </item>
+    
+    <item>
+      <title>GIS 5953  Lab 3 (Module 1.3) Data Quality - Assessment</title>
+      <link>https://kree.github.io/posts/2020-09-27-gis-5953-lab-3-module-1-3-data-quality-assessment/</link>
+      <pubDate>Sun, 27 Sep 2020 19:28:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2020-09-27-gis-5953-lab-3-module-1-3-data-quality-assessment/</guid>
+      <description>For this lab, we assessed the completeness of two road networks in Jackson County, Oregon using the criteria of total length over the whole dataset. That is, the longer road network is defined as more complete. We then also assessed completeness by the same criteria (total length) in each of 297 grid cells laid out over Jackson County. The two road networks compared for completeness where the TIGER road dataset from 2000 and a road centerline dataset, both provided via the UWF data repository.</description>
+    </item>
+    
+    <item>
+      <title>GIS 5945: GIS Professional User Group</title>
+      <link>https://kree.github.io/posts/2020-09-13-gis-5945-gis-professional-user-group/</link>
+      <pubDate>Sun, 13 Sep 2020 21:45:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2020-09-13-gis-5945-gis-professional-user-group/</guid>
+      <description>I chose to join the QGIS U.S. User Group. Here is a link to their homepage: http://qgis.us/. I selected this user group because QGIS is the GIS software system most often used in my group at my workplace, and I would like to be more knowledgeable about it. I also would like to work up to eventually contributing code to QGIS. QGIS is also open-source software, which means that anyone can download a copy of the source code for the project and make changes to it.</description>
+    </item>
+    
+    <item>
+      <title>GIS 5935 - Lab 2 Data Quality - Standards</title>
+      <link>https://kree.github.io/posts/2020-09-09-gis-5935-lab-2-data-quality-standards/</link>
+      <pubDate>Wed, 09 Sep 2020 20:02:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2020-09-09-gis-5935-lab-2-data-quality-standards/</guid>
+      <description>In the lab this week, we examined the positional accuracy of road networks. We compared road intersections in 2 datasets: shapefiles produced by the city of Albuquerque containing road center-lines, a shapefile with the same streets from StreetMap USA. These were compared with hand-marked intersections placed on orthophotos of the area.  The steps I took to perform this accuracy assessment were as follows:
+ (1) Create a polygon the size of the test area and subdivide it into four quadrants so I could follow the requirement that 20% of points must fall in each quadrant.</description>
+    </item>
+    
+    <item>
+      <title>GIS5935 - Lab 1: Calculating Metrics for Spatial Data Quality</title>
+      <link>https://kree.github.io/posts/2020-09-02-gis5935-lab-1-calculating-metrics-for-spatial-data-quality/</link>
+      <pubDate>Wed, 02 Sep 2020 20:04:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2020-09-02-gis5935-lab-1-calculating-metrics-for-spatial-data-quality/</guid>
+      <description>For the first lab of GIS5935, we examined accuracy and precision via two datasets. In the first, 50 measurements were taken of a single point using a Garmin GPS unit. First, the mean waypoint was calculated and placed on the map using the means of the x and y values of all the waypoints. Then, the distance of each waypoint from the average waypoint was calculated.
+Horizontal accuracy was calculated as the distance (measured using a tool in ArcGIS) between the mean waypoint measurement and a provided reference waypoint.</description>
+    </item>
+    
+    <item>
+      <title>GIS 4048 - Lab 6 - Damage Assessment</title>
+      <link>https://kree.github.io/posts/2020-08-08-gis-4048-lab-6-damage-assessment/</link>
+      <pubDate>Sat, 08 Aug 2020 20:40:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2020-08-08-gis-4048-lab-6-damage-assessment/</guid>
+      <description>In this lab, first we mapped Hurricane Sandy&amp;rsquo;s full path from Tropical Depression to Category 2 Hurricane, and then we assessed the damage that occurred in a small parcel on the coast of New Jersey, using images from before and after Sandy&amp;rsquo;s arrival.
+To assess this damage, after setting up the pre-Sandy and post-Sandy images in mosaics, I intersected the New Jersey parcels feature class with the Study Area feature class to just get the parcels in the study area so that it was clear which parcels were examined for damage.</description>
+    </item>
+    
+    <item>
+      <title>GIS 4048 - Lab 5: Coastal Flooding</title>
+      <link>https://kree.github.io/posts/2020-08-02-gis-4048-lab-5-coastal-flooding/</link>
+      <pubDate>Sun, 02 Aug 2020 21:00:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2020-08-02-gis-4048-lab-5-coastal-flooding/</guid>
+      <description>In this lab, we examined various different ways of calculating coastal flooding. First, we looked at LAS (LIDAR) datasets for an area of New Jersey, pre and post Hurricane Sandy. Visible changes in the width of the barrier island (it seems to have expanded in places) and the altitude of certain areas decreased or increased.
+Next, we looked at Storm Surge in New Jersey by examining areas of a DEM under the average storm surge of 2m.</description>
+    </item>
+    
+    <item>
+      <title>GIS 4048 - Lab 4 - Crime Analysis</title>
+      <link>https://kree.github.io/posts/2020-07-26-gis-4048-lab-4-crime-analysis/</link>
+      <pubDate>Sun, 26 Jul 2020 21:22:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2020-07-26-gis-4048-lab-4-crime-analysis/</guid>
+      <description>To calculate a kernel density hotspot map, we used the Kernel Density tool built in to ArcGIS Pro, and then filtered out all results below 3 times the mean to produce the following map:
+To create a Moran&amp;rsquo;s I hotspot map, we first joined census tract information with the homicide points to get a count of homicides for each census tract. Then, we used the number of households per tract to get a per-household crime rate.</description>
+    </item>
+    
+    <item>
+      <title>GIS 4048 - Lab 3 Visibility Analysis - ArcGIS training</title>
+      <link>https://kree.github.io/posts/2020-07-17-gis-4048-lab-3-visibility-analysis-arcgis-training/</link>
+      <pubDate>Fri, 17 Jul 2020 21:10:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2020-07-17-gis-4048-lab-3-visibility-analysis-arcgis-training/</guid>
+      <description>For lab this week, we took 4 online ArcGIS training courses, all about learning how to use the 3D side of ArcGIS.
+1.) 3D Visualization using ArcGIS Pro:
+The most useful part of this exercise for me was simply how to navigate 3D ArcGIS scenes by controlling the camera, panning, zooming, etc. I also didn&amp;rsquo;t realize it was possible to dock maps and scenes side-by-side and link them. This is very cool and useful.</description>
+    </item>
+    
+    <item>
+      <title>GIS 4048 - Lab2 - Forestry and Lidar</title>
+      <link>https://kree.github.io/posts/2020-07-12-gis-4048-lab2-forestry-and-lidar/</link>
+      <pubDate>Sun, 12 Jul 2020 17:03:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2020-07-12-gis-4048-lab2-forestry-and-lidar/</guid>
+      <description>In this lab, LIDAR data was used to generate a map of the tree canopy density for a region of Shenandoah National Park, Virginia. This area lies in the Blue Ridge Mountains and along the Appalachian Trail.
+Here&amp;rsquo;s the National Park Service map for part of this area: https://www.nps.gov/shen/planyourvisit/upload/BigMeadows_RoadTrail.pdf !
+Lidar data was provide in Lidar Point Cloud (LPC) format. This was used to create a DEM by filtering to include only ground points, and a DSM representing the canopy, which included only non-ground points.</description>
+    </item>
+    
+    <item>
+      <title>GIS 4048/5100 - Lab 1 Least Cost Path Analysis and Corridor Analysis: Scenario 2</title>
+      <link>https://kree.github.io/posts/2020-07-08-gis-4048-5100-lab-1-least-cost-path-analysis-and-corridor-analysis-scenario-2/</link>
+      <pubDate>Wed, 08 Jul 2020 21:02:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2020-07-08-gis-4048-5100-lab-1-least-cost-path-analysis-and-corridor-analysis-scenario-2/</guid>
+      <description>For this section of Lab 1, a suitability assessment for property development was performed in an area of Southern Oregon. First, information provided about soil and land types via raster images were reclassified into rasters with cell values indicating suitability ratings for development. Next, suitability ratings were assigned to slope values, using information from a DEM. Following this, rasters were generated indicating the distance from rivers and roads in this study area and these were also reclassified to suitability ratings.</description>
+    </item>
+    
+    <item>
+      <title>GIS 4048 - Lab 1 - Scenario 4: Coronado National Forest Black Bear Corridor Analysis</title>
+      <link>https://kree.github.io/posts/2020-07-08-gis-4048-lab-1-scenario-4-coronado-national-forest-black-bear-corridor-analysis/</link>
+      <pubDate>Wed, 08 Jul 2020 19:04:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2020-07-08-gis-4048-lab-1-scenario-4-coronado-national-forest-black-bear-corridor-analysis/</guid>
+      <description>For this section of the first Lab, &amp;ldquo;Scenario 4,&amp;rdquo; the most suitable or least-cost corridor for black bear movement was calculated between two protected areas of Coronado National Forest in Southern Arizona. Criteria included in the suitability calculation were: elevation, distance from roads, and land cover types. ArcGIS Pro was used to create Cost Distance surfaces from each Protected Area, and these were then combined using the Corridor tool to generate a single corridor.</description>
+    </item>
+    
+    <item>
+      <title>GIS 4048/5100 - About Me</title>
+      <link>https://kree.github.io/posts/2020-07-03-gis-4048-5100-about-me/</link>
+      <pubDate>Fri, 03 Jul 2020 12:18:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2020-07-03-gis-4048-5100-about-me/</guid>
+      <description>My name is Kristin. Applications in GIS (GIS 5100) is my second-to-last course (excluding the internship) in the GIS Certificate program at UWF. My experience in GIS prior to this program was limited. I work on image-processing software for the US Geological Survey, but the level of processing this software performs is usually done prior to importing images into ArcGIS or QGIS. I joined this program because I wanted to have a better background in GIS to further my knowledge and career.</description>
+    </item>
+    
+    <item>
+      <title>GIS 5103 - Module 6: Working with Geometries</title>
+      <link>https://kree.github.io/posts/2020-05-09-gis-5103-module-6-working-with-geometries/</link>
+      <pubDate>Sat, 09 May 2020 14:31:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2020-05-09-gis-5103-module-6-working-with-geometries/</guid>
+      <description>In case it is useful, here is some pseudocode for the script:
+ Import arcpyInitialize env to data dir and set overwrite output files flagOpen output file “kb157_rivers.txt” in write modeSetup feature class = &amp;ldquo;S:\GIS5103\Mod6_Data\rivers.shp&amp;rdquo;Open search cursor using setup feature class; select “FID”, “SHAPE@”, “NAME”For each row returned by cursor:vertex_id = 0For each point in the only part of the geometry object in the row:Increment vertex_idLine = OID +“ “+ vertex_id + “ “ + x-coordinate + “ “ + y-coordinate + “ “ feature name + newlineFile.</description>
+    </item>
+    
+    <item>
+      <title>GIS 4006 - Module 7 - Google Earth</title>
+      <link>https://kree.github.io/posts/2020-04-30-gis-4006-module-7-google-earth/</link>
+      <pubDate>Thu, 30 Apr 2020 18:30:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2020-04-30-gis-4006-module-7-google-earth/</guid>
+      <description>For this week&amp;rsquo;s lab we exported KML files from ArcGIS Pro which contained: dot density information for the major cities in southern Florida, water features, and county lines in southern Florida. (The dot density and county lines were actually already provided in KMZ format as part of the lab,) and loaded them into Google Earth Pro, the downloadable desktop version of Google Earth.
+For the only static map deliverable, I loaded these KML files into Google Earth and imported a legend.</description>
+    </item>
+    
+    <item>
+      <title>GIS 4006 - Module 6 - Isarithmic Mapping</title>
+      <link>https://kree.github.io/posts/2020-04-22-gis-4006-module-6-isarithmic-mapping/</link>
+      <pubDate>Wed, 22 Apr 2020 21:43:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2020-04-22-gis-4006-module-6-isarithmic-mapping/</guid>
+      <description>This week&amp;rsquo;s topic was Isarithmic mapping &amp;ndash; that is, mapping continuous values like precipitation or elevation. Israrithmic maps can feature continuous tones (unclassed) or hyposometric tints (classed, and usually separated by contour lines.)
+This week&amp;rsquo;s goal was to map average annual precipitation from 1981 - 2010 in Wasington State, USA. We created maps using both continuous and hypsometric tinting and added a topography-based hillshade to add texture and interest to the maps.</description>
+    </item>
+    
+    <item>
+      <title>GIS4006 - Module 5 - Choropleth and Proportional Symbol Mapping</title>
+      <link>https://kree.github.io/posts/2020-04-15-gis4006-module-5-choropleth-and-proportional-symbol-mapping/</link>
+      <pubDate>Wed, 15 Apr 2020 22:09:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2020-04-15-gis4006-module-5-choropleth-and-proportional-symbol-mapping/</guid>
+      <description>For this week&amp;rsquo;s lab, we map wine consumption and population density in Europe, using ArcGIS Pro and Adobe Illustrator to finish. Despite the look of the map, I did export it into Adobe Illustrator to finish it up, but I didn&amp;rsquo;t do much more than clean up the &amp;ldquo;inset&amp;rdquo; area and create the inset map lines. Population density is displayed via choropleths and wine consumption is displayed using red wine-colored proportional symbols.</description>
+    </item>
+    
+    <item>
+      <title>GIS 4006 - Module 4 - Data Classification</title>
+      <link>https://kree.github.io/posts/2020-04-08-gis-4006-module-4-data-classification/</link>
+      <pubDate>Wed, 08 Apr 2020 21:58:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2020-04-08-gis-4006-module-4-data-classification/</guid>
+      <description>The goal of this week&amp;rsquo;s lab was to create four different maps using same dataset from the US 2020 Census in Miami-Dade county, two different ways. First, the primary goal was to classify the census tracts using 4 different classification methods: Natural Breaks, Equal Interval, Quantile, and Standard Deviation. These 4 classification methods are appropriate for use in different situations and each has their own strengths and weaknesses. First, the percentage of the population above 65 by census tract was classified in each of these four ways.</description>
+    </item>
+    
+    <item>
+      <title>GIS 4006 - Module 3 - Cartographic Design in ArcGIS Pro</title>
+      <link>https://kree.github.io/posts/2020-04-01-gis-4006-module-3-cartographic-design-in-arcgis-pro/</link>
+      <pubDate>Wed, 01 Apr 2020 20:27:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2020-04-01-gis-4006-module-3-cartographic-design-in-arcgis-pro/</guid>
+      <description>The goal of this week&amp;rsquo;s module was to create a map of the schools in Ward 7 of Washington DC utilizing good cartographic design principles. The map was created solely in ArcGIS Pro using the data provided. I ended up using a very similar color scheme to the student example maps that were provided, after experimenting with my own ideas and coming to the conclusion that they all looked less professional.</description>
+    </item>
+    
+    <item>
+      <title>GIS 4006 - Module 2 Lab - Typography</title>
+      <link>https://kree.github.io/posts/2020-03-25-gis-4006-module-2-lab-typography/</link>
+      <pubDate>Wed, 25 Mar 2020 21:37:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2020-03-25-gis-4006-module-2-lab-typography/</guid>
+      <description>This week&amp;rsquo;s assignment was to create a map of Marathon, Florida and label it &amp;ldquo;by-hand&amp;rdquo; in Adobe Illustrator, using the ArcGIS plugin to load the map (from a simple basemap imported from the FGDL in ArcGIS and then exported to a web map for ArcGIS Online.) Previously, I had only used ArcGIS for labeling maps automatically. The lecture and reading covered the standards for labeling map features, including standards for points, lines, and areas, and mentioned to make sure to change the labels accordingly to make ordinal or nominal differences obvious (e.</description>
+    </item>
+    
+    <item>
+      <title>GIS - 4006 - Module 1 Map Critique</title>
+      <link>https://kree.github.io/posts/2020-03-19-gis-4006-module-1-map-critique/</link>
+      <pubDate>Thu, 19 Mar 2020 19:56:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2020-03-19-gis-4006-module-1-map-critique/</guid>
+      <description>This map conveys a great deal of information without being overly cluttered, at two different levels of scale (state and county.) It’s visually appealing and very easy to pick out trends or clusters of ancestry across the US. Contextual spatial information (Canada and Mexico) are included, but muted and de-emphasized. This map definitely “maps substantial information” (condensed Tuftesm #1) – the most common ancestry in each county &amp;ndash; which stands out in the map and can be easily understood, “contains minimal crap” (condensed Tuftesm #4) – it contains no labels or symbols but is complete and doesn’t contain unnecessary information, and has a good map layout (condensed Tufetism #5) including sub-maps at appropriate scales and in sensible locations.</description>
+    </item>
+    
+    <item>
+      <title>GIS 4006 - &#34;About Me&#34; introductory post</title>
+      <link>https://kree.github.io/posts/2020-03-08-gis-4006-about-me-introductory-post/</link>
+      <pubDate>Sun, 08 Mar 2020 21:06:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2020-03-08-gis-4006-about-me-introductory-post/</guid>
+      <description>Hi, my name is Kristin. I&amp;rsquo;ve been working for about 5 years at the USGS on software for processing remotely-sensed imagery of other planets which is used to create controlled global mosaics and DTMs. I&amp;rsquo;m in the GIS Certificate program and my primary goal is to learn more about &amp;lsquo;normal&amp;rsquo; earth-based GIS, etc, as my background is planetary astronomy and for many smaller planetary bodies, it&amp;rsquo;s only very recently that we have high-enough resolution data for mapping and GIS to be possible.</description>
+    </item>
+    
+    <item>
+      <title>Lab 5 - GIS4035 - Unsupervised and Supervised Classification</title>
+      <link>https://kree.github.io/posts/2019-12-03-lab-5-gis4035-unsupervised-and-supervised-classification/</link>
+      <pubDate>Tue, 03 Dec 2019 20:03:00 -0800</pubDate>
+      
+      <guid>https://kree.github.io/posts/2019-12-03-lab-5-gis4035-unsupervised-and-supervised-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lab 4 - GIS4035 - Spatial Enhancement and Band Indicies</title>
+      <link>https://kree.github.io/posts/2019-11-19-lab-4-gis4035-spatial-enhancement-and-band-indicies/</link>
+      <pubDate>Tue, 19 Nov 2019 21:11:00 -0800</pubDate>
+      
+      <guid>https://kree.github.io/posts/2019-11-19-lab-4-gis4035-spatial-enhancement-and-band-indicies/</guid>
+      <description>For this week&amp;rsquo;s lab, after going through several exercises about using the different spatial filters, using histograms, and using band indicies in ERDAS imagine (and to a lesser extent in ArcGIS,) we created 3 output maps based on three mystery features described in this week&amp;rsquo;s lab. I identified Mystery Feature #1 as &amp;ldquo;water,&amp;rdquo; in particular the inlets in the upper-righthand corner of our image to be analyzed, Mystery Feature #2 as snow/ice in the mountains, and Feature #3 as the bay which showed high brightness in Layers 1-3, and to a lesser extent 4, but no brightness variation from the rest of the water in Layers 5-6.</description>
+    </item>
+    
+    <item>
+      <title>Lab 3 - GIS4035 - Intro to ERDAS Imagine and Digital Data A&amp;B</title>
+      <link>https://kree.github.io/posts/2019-11-12-lab-3-gis4035-intro-to-erdas-imagine-and-digital-data-a-b/</link>
+      <pubDate>Tue, 12 Nov 2019 19:30:00 -0800</pubDate>
+      
+      <guid>https://kree.github.io/posts/2019-11-12-lab-3-gis4035-intro-to-erdas-imagine-and-digital-data-a-b/</guid>
+      <description>For this week&amp;rsquo;s lab, we used ERDAS Imagine for the first time and used it to view automatically classified land types of an image from Olympic National Park in Washington State.
+I found ERDAS imagine surprisingly quick and straightforward to use! We selected a subset of the image and exported the result to a new .img file. We then loaded this .img file into ArcGIS and used it to create the actual map displayed in this blog post.</description>
+    </item>
+    
+    <item>
+      <title>Lab 2 - GIS4035 - Land Use Land Cover</title>
+      <link>https://kree.github.io/posts/2019-11-05-lab-2-gis4035-land-use-land-cover/</link>
+      <pubDate>Tue, 05 Nov 2019 22:03:00 -0800</pubDate>
+      
+      <guid>https://kree.github.io/posts/2019-11-05-lab-2-gis4035-land-use-land-cover/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lab 1 - GIS 4035 - Visual Interpertation </title>
+      <link>https://kree.github.io/posts/2019-10-29-lab-1-gis-4035-visual-interpertation/</link>
+      <pubDate>Tue, 29 Oct 2019 21:40:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2019-10-29-lab-1-gis-4035-visual-interpertation/</guid>
+      <description>In this lab, we explored identifying regions and features in aerial photographs, and compared the colors of features in photos taken of the same region in true color vs. false color NIR imagery. For the first part of this lab, we identified regions (which we marked with Polygons) of 5 tone levels, and 5 texture levels. The result of this work is shown below.
+In the second part of this lab, we identified features (i.</description>
+    </item>
+    
+    <item>
+      <title>Module 6 - Add XY Data and Geocoding</title>
+      <link>https://kree.github.io/posts/2019-10-20-module-6-add-xy-data-and-geocoding/</link>
+      <pubDate>Sun, 20 Oct 2019 20:20:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2019-10-20-module-6-add-xy-data-and-geocoding/</guid>
+      <description>In this week&amp;rsquo;s module, first we first created XY Data in an Excel spreadsheet and imported it into ArcGIS and then Geocoded addresses obtained from the Florida Department of Education website based on TIGER &amp;ldquo;All Line&amp;rdquo; files obtained from the US Census Bureau for Brevard County in Florida.
+The first part of this week&amp;rsquo;s lab was very straightforward: parsing out lat/lon locations of Eagle Nests in Santa Rosa county given in degree-minute-second format and then converting them to decimal degrees using degrees + minutes/60.</description>
+    </item>
+    
+    <item>
+      <title>Module 5 - Vector Analysis 1 and 2</title>
+      <link>https://kree.github.io/posts/2019-10-02-module-5-vector-analysis-1-and-2/</link>
+      <pubDate>Wed, 02 Oct 2019 09:07:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2019-10-02-module-5-vector-analysis-1-and-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Module 4 - Intro to GIS - ArcGIS Collector, Sharing Maps, and Projections</title>
+      <link>https://kree.github.io/posts/2019-09-20-module-4-intro-to-gis-arcgis-collector-sharing-maps-and-projections/</link>
+      <pubDate>Fri, 20 Sep 2019 21:08:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2019-09-20-module-4-intro-to-gis-arcgis-collector-sharing-maps-and-projections/</guid>
+      <description>In this week&amp;rsquo;s lab, we completed two projects: collecting data using the smartphone app ArcGIS Collector and displaying it and exporting it, and using FGDL shapefiles of Florida Counties to explore the differences between three different projections.
+The goal of the first lab was to collect condition data about some infrastructure in your neighborhood and then share it online via ArcGIS online, Google Earth, and also export the information so that others could use it in KML and Map Package form.</description>
+    </item>
+    
+    <item>
+      <title>Module 3 - Intro to GIS - Cartography: Layout and Essential Map Elements</title>
+      <link>https://kree.github.io/posts/2019-09-09-module-3-intro-to-gis-cartography-layout-and-essential-map-elements/</link>
+      <pubDate>Mon, 09 Sep 2019 20:52:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2019-09-09-module-3-intro-to-gis-cartography-layout-and-essential-map-elements/</guid>
+      <description>For the second lab in GIS4043, we created a map of the University of West Florida&amp;rsquo;s location relative to the Escambia county line, interstates, and major rivers, along with a context map displaying all the counties of Florida. This was a more complete map than last week, containing a legend, title, and an indicator of the direction of north, and also a lot more work than last week. I had no idea how many design decisions go into the creation of a relatively simple map!</description>
+    </item>
+    
+    <item>
+      <title>Module 2 - Intro to GIS - ArcGIS Pro Overview</title>
+      <link>https://kree.github.io/posts/2019-09-02-module-2-intro-to-gis-arcgis-pro-overview/</link>
+      <pubDate>Mon, 02 Sep 2019 16:24:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2019-09-02-module-2-intro-to-gis-arcgis-pro-overview/</guid>
+      <description>For the first lab in the first week of Intro to GIS we created
+and exported a simple world map with major cities and countries denoted using ArcGIS Pro. The general steps were as follows: (1) Create a new project in ArcGIS, (2) Add a dataset, consisting of shapefiles for major cities and countries of the world, (3) Modify the symbology used to display the data, and (4) Create a map layout and export it.</description>
+    </item>
+    
+    <item>
+      <title>Welcome to this blog!</title>
+      <link>https://kree.github.io/posts/2019-08-27-welcome-to-this-blog/</link>
+      <pubDate>Tue, 27 Aug 2019 08:14:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2019-08-27-welcome-to-this-blog/</guid>
+      <description>Welcome! This blog will demonstrate work completed for the GIS Certificate program offered by the University of West Florida.</description>
+    </item>
+    
+  </channel>
+</rss>

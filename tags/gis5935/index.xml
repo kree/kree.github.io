@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GIS5935 on Kristin Berry&#39;s GIS Portfolio</title>
+    <link>https://kree.github.io/tags/gis5935/</link>
+    <description>Recent content in GIS5935 on Kristin Berry&#39;s GIS Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Oct 2020 22:57:00 -0700</lastBuildDate><atom:link href="https://kree.github.io/tags/gis5935/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GIS 5935 - Lab 6: Scale Effect and Spatial Data Aggregataion</title>
+      <link>https://kree.github.io/posts/2020-10-18-gis-5935-lab-6-scale-effect-and-spatial-data-aggregataion/</link>
+      <pubDate>Sun, 18 Oct 2020 22:57:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2020-10-18-gis-5935-lab-6-scale-effect-and-spatial-data-aggregataion/</guid>
+      <description>For the first part of this week&amp;rsquo;s lab, we examined the effects of scale on data by examining vector and raster data at various scales and resolutions. For the second part of this week&amp;rsquo;s lab, we examined the how aggregating spatial data in different ways can result in different results. The primary thing we examined in this section was gerrymandered districts, which was fascinating.
+Higher scale vector data tends to contain more details, more vertices, and generally more information.</description>
+    </item>
+    
+    <item>
+      <title>GIS 5935 - Lab 5 / Module 2.2: Surface Interpolation</title>
+      <link>https://kree.github.io/posts/2020-10-07-gis-5935-lab-5-module-2-2-surface-interpolation/</link>
+      <pubDate>Wed, 07 Oct 2020 20:45:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2020-10-07-gis-5935-lab-5-module-2-2-surface-interpolation/</guid>
+      <description>In this lab, we examined different methods for interpolating between points, including: Inverse Distance Weighting (IDW,) Thiessen (Nearest Neighbor), and Spline. Within Spline we investigated both the Tension and Regular options offered by ArcGIS. In Part A, we examined a set of elevation points in Kansas and created interpolated DEMs from them using IDW and Spline (tension) interpolations. Then, we subtracted the results using the Raster Calculator to analyze the differences between the results.</description>
+    </item>
+    
+    <item>
+      <title>GIS 5935 - Lab 4 / Module 2.1: Surfaces - TINs and DEMs</title>
+      <link>https://kree.github.io/posts/2020-09-30-gis-5935-lab-4-module-2-1-surfaces-tins-and-dems/</link>
+      <pubDate>Wed, 30 Sep 2020 21:43:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2020-09-30-gis-5935-lab-4-module-2-1-surfaces-tins-and-dems/</guid>
+      <description>In this week&amp;rsquo;s lab, we examined digital elevation models (DEMs) and surfaces represented by TINs (triangular irregular networks.) Unlike a DEM, a TIN is a geometric three dimensional model of a surface, rather than the traditional DEM raster model with a raster value for elevation at each pixel. The TIN model allows for geometric operations like intersection with a triangular facet to determine what is visible from a point, that would be more difficult to compute from a raster DEM surface.</description>
+    </item>
+    
+    <item>
+      <title>GIS 5953  Lab 3 (Module 1.3) Data Quality - Assessment</title>
+      <link>https://kree.github.io/posts/2020-09-27-gis-5953-lab-3-module-1-3-data-quality-assessment/</link>
+      <pubDate>Sun, 27 Sep 2020 19:28:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2020-09-27-gis-5953-lab-3-module-1-3-data-quality-assessment/</guid>
+      <description>For this lab, we assessed the completeness of two road networks in Jackson County, Oregon using the criteria of total length over the whole dataset. That is, the longer road network is defined as more complete. We then also assessed completeness by the same criteria (total length) in each of 297 grid cells laid out over Jackson County. The two road networks compared for completeness where the TIGER road dataset from 2000 and a road centerline dataset, both provided via the UWF data repository.</description>
+    </item>
+    
+    <item>
+      <title>GIS 5935 - Lab 2 Data Quality - Standards</title>
+      <link>https://kree.github.io/posts/2020-09-09-gis-5935-lab-2-data-quality-standards/</link>
+      <pubDate>Wed, 09 Sep 2020 20:02:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2020-09-09-gis-5935-lab-2-data-quality-standards/</guid>
+      <description>In the lab this week, we examined the positional accuracy of road networks. We compared road intersections in 2 datasets: shapefiles produced by the city of Albuquerque containing road center-lines, a shapefile with the same streets from StreetMap USA. These were compared with hand-marked intersections placed on orthophotos of the area.  The steps I took to perform this accuracy assessment were as follows:
+ (1) Create a polygon the size of the test area and subdivide it into four quadrants so I could follow the requirement that 20% of points must fall in each quadrant.</description>
+    </item>
+    
+    <item>
+      <title>GIS5935 - Lab 1: Calculating Metrics for Spatial Data Quality</title>
+      <link>https://kree.github.io/posts/2020-09-02-gis5935-lab-1-calculating-metrics-for-spatial-data-quality/</link>
+      <pubDate>Wed, 02 Sep 2020 20:04:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2020-09-02-gis5935-lab-1-calculating-metrics-for-spatial-data-quality/</guid>
+      <description>For the first lab of GIS5935, we examined accuracy and precision via two datasets. In the first, 50 measurements were taken of a single point using a Garmin GPS unit. First, the mean waypoint was calculated and placed on the map using the means of the x and y values of all the waypoints. Then, the distance of each waypoint from the average waypoint was calculated.
+Horizontal accuracy was calculated as the distance (measured using a tool in ArcGIS) between the mean waypoint measurement and a provided reference waypoint.</description>
+    </item>
+    
+  </channel>
+</rss>

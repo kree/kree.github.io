@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Story Map on Kristin Berry&#39;s GIS Portfolio</title>
+    <link>https://kree.github.io/tags/story-map/</link>
+    <description>Recent content in Story Map on Kristin Berry&#39;s GIS Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Jul 2020 12:18:00 -0700</lastBuildDate><atom:link href="https://kree.github.io/tags/story-map/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GIS 4048/5100 - About Me</title>
+      <link>https://kree.github.io/posts/2020-07-03-gis-4048-5100-about-me/</link>
+      <pubDate>Fri, 03 Jul 2020 12:18:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2020-07-03-gis-4048-5100-about-me/</guid>
+      <description>My name is Kristin. Applications in GIS (GIS 5100) is my second-to-last course (excluding the internship) in the GIS Certificate program at UWF. My experience in GIS prior to this program was limited. I work on image-processing software for the US Geological Survey, but the level of processing this software performs is usually done prior to importing images into ArcGIS or QGIS. I joined this program because I wanted to have a better background in GIS to further my knowledge and career.</description>
+    </item>
+    
+  </channel>
+</rss>

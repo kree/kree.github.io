@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Critique on Kristin Berry&#39;s GIS Portfolio</title>
+    <link>https://kree.github.io/tags/critique/</link>
+    <description>Recent content in Critique on Kristin Berry&#39;s GIS Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Mar 2020 19:56:00 -0700</lastBuildDate><atom:link href="https://kree.github.io/tags/critique/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GIS - 4006 - Module 1 Map Critique</title>
+      <link>https://kree.github.io/posts/2020-03-19-gis-4006-module-1-map-critique/</link>
+      <pubDate>Thu, 19 Mar 2020 19:56:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2020-03-19-gis-4006-module-1-map-critique/</guid>
+      <description>This map conveys a great deal of information without being overly cluttered, at two different levels of scale (state and county.) It’s visually appealing and very easy to pick out trends or clusters of ancestry across the US. Contextual spatial information (Canada and Mexico) are included, but muted and de-emphasized. This map definitely “maps substantial information” (condensed Tuftesm #1) – the most common ancestry in each county &amp;ndash; which stands out in the map and can be easily understood, “contains minimal crap” (condensed Tuftesm #4) – it contains no labels or symbols but is complete and doesn’t contain unnecessary information, and has a good map layout (condensed Tufetism #5) including sub-maps at appropriate scales and in sensible locations.</description>
+    </item>
+    
+  </channel>
+</rss>

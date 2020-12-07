@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GIS4006 on Kristin Berry&#39;s GIS Portfolio</title>
+    <link>https://kree.github.io/tags/gis4006/</link>
+    <description>Recent content in GIS4006 on Kristin Berry&#39;s GIS Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Apr 2020 18:30:00 -0700</lastBuildDate><atom:link href="https://kree.github.io/tags/gis4006/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GIS 4006 - Module 7 - Google Earth</title>
+      <link>https://kree.github.io/posts/2020-04-30-gis-4006-module-7-google-earth/</link>
+      <pubDate>Thu, 30 Apr 2020 18:30:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2020-04-30-gis-4006-module-7-google-earth/</guid>
+      <description>For this week&amp;rsquo;s lab we exported KML files from ArcGIS Pro which contained: dot density information for the major cities in southern Florida, water features, and county lines in southern Florida. (The dot density and county lines were actually already provided in KMZ format as part of the lab,) and loaded them into Google Earth Pro, the downloadable desktop version of Google Earth.
+For the only static map deliverable, I loaded these KML files into Google Earth and imported a legend.</description>
+    </item>
+    
+    <item>
+      <title>GIS 4006 - Module 6 - Isarithmic Mapping</title>
+      <link>https://kree.github.io/posts/2020-04-22-gis-4006-module-6-isarithmic-mapping/</link>
+      <pubDate>Wed, 22 Apr 2020 21:43:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2020-04-22-gis-4006-module-6-isarithmic-mapping/</guid>
+      <description>This week&amp;rsquo;s topic was Isarithmic mapping &amp;ndash; that is, mapping continuous values like precipitation or elevation. Israrithmic maps can feature continuous tones (unclassed) or hyposometric tints (classed, and usually separated by contour lines.)
+This week&amp;rsquo;s goal was to map average annual precipitation from 1981 - 2010 in Wasington State, USA. We created maps using both continuous and hypsometric tinting and added a topography-based hillshade to add texture and interest to the maps.</description>
+    </item>
+    
+    <item>
+      <title>GIS4006 - Module 5 - Choropleth and Proportional Symbol Mapping</title>
+      <link>https://kree.github.io/posts/2020-04-15-gis4006-module-5-choropleth-and-proportional-symbol-mapping/</link>
+      <pubDate>Wed, 15 Apr 2020 22:09:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2020-04-15-gis4006-module-5-choropleth-and-proportional-symbol-mapping/</guid>
+      <description>For this week&amp;rsquo;s lab, we map wine consumption and population density in Europe, using ArcGIS Pro and Adobe Illustrator to finish. Despite the look of the map, I did export it into Adobe Illustrator to finish it up, but I didn&amp;rsquo;t do much more than clean up the &amp;ldquo;inset&amp;rdquo; area and create the inset map lines. Population density is displayed via choropleths and wine consumption is displayed using red wine-colored proportional symbols.</description>
+    </item>
+    
+    <item>
+      <title>GIS 4006 - Module 4 - Data Classification</title>
+      <link>https://kree.github.io/posts/2020-04-08-gis-4006-module-4-data-classification/</link>
+      <pubDate>Wed, 08 Apr 2020 21:58:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2020-04-08-gis-4006-module-4-data-classification/</guid>
+      <description>The goal of this week&amp;rsquo;s lab was to create four different maps using same dataset from the US 2020 Census in Miami-Dade county, two different ways. First, the primary goal was to classify the census tracts using 4 different classification methods: Natural Breaks, Equal Interval, Quantile, and Standard Deviation. These 4 classification methods are appropriate for use in different situations and each has their own strengths and weaknesses. First, the percentage of the population above 65 by census tract was classified in each of these four ways.</description>
+    </item>
+    
+    <item>
+      <title>GIS 4006 - Module 3 - Cartographic Design in ArcGIS Pro</title>
+      <link>https://kree.github.io/posts/2020-04-01-gis-4006-module-3-cartographic-design-in-arcgis-pro/</link>
+      <pubDate>Wed, 01 Apr 2020 20:27:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2020-04-01-gis-4006-module-3-cartographic-design-in-arcgis-pro/</guid>
+      <description>The goal of this week&amp;rsquo;s module was to create a map of the schools in Ward 7 of Washington DC utilizing good cartographic design principles. The map was created solely in ArcGIS Pro using the data provided. I ended up using a very similar color scheme to the student example maps that were provided, after experimenting with my own ideas and coming to the conclusion that they all looked less professional.</description>
+    </item>
+    
+    <item>
+      <title>GIS 4006 - Module 2 Lab - Typography</title>
+      <link>https://kree.github.io/posts/2020-03-25-gis-4006-module-2-lab-typography/</link>
+      <pubDate>Wed, 25 Mar 2020 21:37:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2020-03-25-gis-4006-module-2-lab-typography/</guid>
+      <description>This week&amp;rsquo;s assignment was to create a map of Marathon, Florida and label it &amp;ldquo;by-hand&amp;rdquo; in Adobe Illustrator, using the ArcGIS plugin to load the map (from a simple basemap imported from the FGDL in ArcGIS and then exported to a web map for ArcGIS Online.) Previously, I had only used ArcGIS for labeling maps automatically. The lecture and reading covered the standards for labeling map features, including standards for points, lines, and areas, and mentioned to make sure to change the labels accordingly to make ordinal or nominal differences obvious (e.</description>
+    </item>
+    
+    <item>
+      <title>GIS - 4006 - Module 1 Map Critique</title>
+      <link>https://kree.github.io/posts/2020-03-19-gis-4006-module-1-map-critique/</link>
+      <pubDate>Thu, 19 Mar 2020 19:56:00 -0700</pubDate>
+      
+      <guid>https://kree.github.io/posts/2020-03-19-gis-4006-module-1-map-critique/</guid>
+      <description>This map conveys a great deal of information without being overly cluttered, at two different levels of scale (state and county.) It’s visually appealing and very easy to pick out trends or clusters of ancestry across the US. Contextual spatial information (Canada and Mexico) are included, but muted and de-emphasized. This map definitely “maps substantial information” (condensed Tuftesm #1) – the most common ancestry in each county &amp;ndash; which stands out in the map and can be easily understood, “contains minimal crap” (condensed Tuftesm #4) – it contains no labels or symbols but is complete and doesn’t contain unnecessary information, and has a good map layout (condensed Tufetism #5) including sub-maps at appropriate scales and in sensible locations.</description>
+    </item>
+    
+  </channel>
+</rss>
